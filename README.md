@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Deploy DML-MD in 3 Easy Steps
+## 🚀 Deploy DML.-BOT in 3 Easy Steps
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 > 🧠 *All developers who forked this repository can be viewed here:*
 
 <p align="center">
-  <a href="https://github.com/MLILA17/DML-MD/network/members" target="_blank">
+  <a href="https://github.com/MLILA05/DML.BOT/network/members" target="_blank">
     <img src="https://img.shields.io/badge/View_All_Forkers-24292E?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -73,8 +73,8 @@
 > 🌟 *These are the latest amazing developers who forked DML-MD:*
 
 <p align="center">
-  <a href="https://github.com/MLILA17/DML-MD/network/members">
-    <img src="https://reporoster.com/forks/MLILA17/DML-MD" alt="Forkers Leaderboard" />
+  <a href="https://github.com/MLILA05/DML.-BOT/network/members">
+    <img src="https://reporoster.com/forks/MLILA05/DML.-BOT" alt="Forkers Leaderboard" />
   </a>
 </p>
 
@@ -82,11 +82,11 @@
 
 ## 🧑‍💻 Contributors
 
-> ✨ Thanks to these incredible people for contributing to **DML-MD**!
+> ✨ Thanks to these incredible people for contributing to **DML.-BOT**!
 
 <p align="center">
-  <a href="https://github.com/MLILA17/DML-MD/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=MLILA17/DML-MD" alt="Contributors" />
+  <a href="https://github.com/MLILA05/DML.-BOT/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=MLILA05/DML.-BOT" alt="Contributors" />
   </a>
 </p>
 
