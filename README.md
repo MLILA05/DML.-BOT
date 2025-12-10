@@ -48,7 +48,7 @@
 
 🚀 *Choose your preferred deployment platform below:*
 
-[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://verify-dmlbot.vercel.app)
+[![Deploy to Heroku](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dml-botverification.vercel.app/)
 
 [![Deploy to Railway](https://img.shields.io/badge/DEPLOY_TO_RAILWAY-0B0B45?style=for-the-badge&logo=railway&logoColor=white)](https://railway.com/new)
 
